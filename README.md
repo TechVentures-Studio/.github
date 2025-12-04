@@ -1,4 +1,4 @@
-# 🚀 TECH VENTURES EDPK
+# 🚀 TECH VENTURES VCC
 
 ### Automated Software Solutions & Venture Studio
 [![License: Proprietary](https://img.shields.io/badge/License-Proprietary-blue.svg)](https://opensource.org/licenses/MIT)
