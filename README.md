@@ -60,4 +60,4 @@ For business inquiries or partnership opportunities:
 📧 **techventureseu@protonmail.com**
 
 ---
-*© 2024-2025 TECH VENTURES EDPK. All proprietary code and assets are owned by the company.*
+*© 2025 TECH VENTURES EDPK. All proprietary code and assets are owned by the company.*
