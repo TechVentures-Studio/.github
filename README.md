@@ -24,7 +24,7 @@ We are technology-agnostic builders, utilizing modern cloud infrastructure for s
 * **Frontend:** React, Tailwind CSS, TypeScript
 * **Backend:** Node.js, Python (FastAPI), Docker
 * **AI/ML:** OpenAI API, Tesseract.js (OCR), Azure Document Intelligence
-* **Infrastructure:** AWS, Google Cloud, Replit (Prototyping)
+* **Infrastructure:** AWS, Google Cloud, Cloudflare
 
 ---
 
@@ -33,16 +33,17 @@ We are technology-agnostic builders, utilizing modern cloud infrastructure for s
 ### 🔹 Project Alpha: Financial Automation Suite (FIN-AUTO-01)
 A suite of B2B tools designed to streamline cross-border financial workflows and currency calculations.
 
-* **Current Status:** `Beta / MVP`
+* **Current Status:** `Alpha/ poc`
 * **Key Features:**
     * Real-time BGN/EUR Conversion Engine.
-    * Client-side OCR for Invoice Processing.
+    * Partial Client-side OCR for Invoice Processing.
     * Automated VAT extraction logic.
 
 ### 🔹 R&D Lab (Sandbox Environments)
 Experimental projects focusing on:
 * E-commerce Automation & Logistics Algorithms.
 * AI Agents for Customer Engagement.
+* Global SME mandatory workflows.
 
 ---
 
@@ -56,7 +57,7 @@ Experimental projects focusing on:
 
 ### 📬 Contact
 For business inquiries or partnership opportunities:
-📧 **admin@techventures-edpk.com** (Replace with your actual email)
+📧 **techventureseu@protonmail.com**
 
 ---
 *© 2024-2025 TECH VENTURES EDPK. All proprietary code and assets are owned by the company.*
