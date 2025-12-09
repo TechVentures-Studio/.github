@@ -59,7 +59,7 @@ Experimental projects focusing on:
 
 ### 📬 Contact
 For business inquiries or partnership opportunities:
-📧 **techventureseu@protonmail.com**
+📧 **info@techventures.systems**
 
 ---
 *© 2025 TECH VENTURES EDPK. All proprietary code and assets are owned by the company.*
